@@ -1,3 +1,5 @@
-It is done using the localStorage, JSON, AJAX, Javascript, HTML5 and CSS3
-#
+You can create notes, update them, delete them and recharge the page without losing them.
+
+Done with: localStorage, JSON, AJAX, Javascript, HTML5 and CSS3
+
 https://juandemarr.github.io/stickyNotes/
